@@ -1,0 +1,10 @@
+ipykernel
+dotenv
+langchain
+langchain_groq
+bs4
+langchain_chroma
+langchain_community
+langchain_text_splitters
+langchain-huggingface 
+sentence-transformers
