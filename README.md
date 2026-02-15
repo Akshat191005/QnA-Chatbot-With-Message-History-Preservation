@@ -35,23 +35,23 @@ User Query
 
 ## Installation
 
-\`\`\`bash
+```bash
 git clone https://github.com/yourusername/rag-chatbot.git
 cd rag-chatbot
 pip install -r requirements.txt
-\`\`\`
+```
 
 Set API key:
 
-\`\`\`bash
+```bash
 export GROQ_API_KEY="your_api_key"
-\`\`\`
+```
 
 Run:
 
-\`\`\`bash
+```bash
 python app.py
-\`\`\`
+```
 
 ## Example Prompts
 
