@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # RAG-based Conversational QnA Chatbot using LangChain, FAISS, ChromaDB, and Groq
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers user questions using semantic search and LLM-based reasoning. The system retrieves relevant context from vector databases and generates accurate, context-aware responses.
